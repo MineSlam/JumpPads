@@ -1,0 +1,7 @@
+name: ${project.artifactId}
+version: ${project.version}
+description: ${project.description}
+author: Rono
+api-version: 1.20
+
+main: ${project.groupId}.main

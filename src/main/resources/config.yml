@@ -1,0 +1,9 @@
+jump-pads:
+  - LEGACY_STONE_PLATE
+
+sound: BLOCK_FIRE_EXTINGUISH
+
+effect: ENDER_SIGNAL
+
+jump:
+  multiplier: 3.0
